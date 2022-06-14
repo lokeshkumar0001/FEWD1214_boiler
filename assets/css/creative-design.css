@@ -42,12 +42,12 @@
 }
 .intro2
 {
-  width: 200px;
-  height: 100px;
+
+  height: 200px;
   border-width: 5px;
   border-style: solid;
   margin: auto;
-  width: 10%;
+  width: 15%;
 }
 /* irrelavant code */
 .l2
