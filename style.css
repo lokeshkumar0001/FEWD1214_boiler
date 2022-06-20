@@ -1,14 +1,14 @@
 .container-1{
   /*Iteration 1 :Using suitable CSS properties hide the contents of the div spilling out*/
-  height: 120px;
+  height: 200px;
 }
 .container-2{ 
-  /*Iteration 2 :Using suitable CSS properties prevent the overflowing of text such that the user is able to scroll and view the entire content*/
-  height: 120px;
+  /*Iteration 2 :Using suitable CSS properties prevent the overflowing of text such that the user is able to scroll in the x and y direction and view the entire content*/
+  height: 200px;
 }
 .container-3{
-  /*Iteration 3 :Using suitable CSS properties prevent the overflowing of text such that the browser is allowed to break lines with longer words */
-  overflow-wrap: break-word;
+  /*Iteration 3 :Using suitable CSS properties to allow the browser to add a scrollbar automatically if there is overflow */
+  height: 200px;
 }
 body {
   font-family: Arial, Helvetica, sans-serif;
