@@ -9,7 +9,7 @@
 }
 .container-3
 {
-  /*Iteration 2 :Using "overflow" property "wrap" prevent the overflowing of text such that the browser is allowed to break lines with longer words */
+  /*Iteration 3 :Using "overflow" property "wrap" prevent the overflowing of text such that the browser is allowed to break lines with longer words */
   width: 100px;
 }
 body {
